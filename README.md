@@ -1,14 +1,14 @@
-# About Blazeblight
+# About PerseverantDT
 A novice programmer looking for things to do. Currently making Origins Datapacks.
 
 ## Aliases
 - EnderFusion159
 - Seteoctia
 - Blazeblight
-- Perseverant Determination/Perseverant DT
+- Perseverant Determination/PerseverantDT
 
 ## Skillset
 - C# - Intermediate
 - HTML - Novice
 - CSS - Novice
-- Javascript - Intermediate
+- Javascript/Typescript - Intermediate
