@@ -1,5 +1,5 @@
 # About PerseverantDT
-A novice programmer looking for things to do.
+A novice programmer with many things to do.
 
 ## Aliases
 - EnderFusion159
