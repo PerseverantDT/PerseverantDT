@@ -1,12 +1,6 @@
 # About PerseverantDT
 A novice programmer with many things to do.
 
-## Aliases
-- EnderFusion159/EF159
-- Seteoctia
-- Blazeblight
-- Perseverant Determination/PerseverantDT
-
 ## Skillset
 - C# - Intermediate
 - HTML - Novice
